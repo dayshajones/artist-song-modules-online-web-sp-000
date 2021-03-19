@@ -1,3 +1,3 @@
 require 'pry'
 
-require_relative '
+require_relative 'config/environment.rb'
